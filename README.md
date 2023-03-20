@@ -29,9 +29,9 @@ Display the image until the key to close the window is pressed.
 </br>
 </br>
 ## Program:
-Developed By: **Shafeeq Ahamed.S**
+Developed By: **Srijith. R**
 </br>
-Register No: **212221230092**
+Register No: **212221240054**
 
 ## i) Write the frame as JPG file
 ```py
